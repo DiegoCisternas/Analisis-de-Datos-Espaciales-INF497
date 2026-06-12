@@ -21,7 +21,7 @@ Análisis de datos espaciales sobre reportes ciudadanos de seguridad en cinco co
 - **Google Maps**: los POIs fueron extraídos **usando la API de Google Maps** (Places, *Nearby Search*) con [google_maps_api.py](google_maps_api.py): grid search de 5 nodos por comuna (radio 2 km) para 4 categorías, con eliminación de duplicados por el traslape de radios.
 
 Para solicitar los datos revisar este link de drive:
-
+https://drive.google.com/drive/folders/1ydCmskWzTU7XEO0_wLxosKYDU3NTavF5?usp=drive_link
 
 ## Qué se hizo con los datos
 
